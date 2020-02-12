@@ -1,0 +1,19 @@
+{
+  "222222222-111111-111111-11111-111111111111": 
+    {
+      "admin": {
+        "api":{
+          "UpdateSiteLicensing": 1,
+          "TenantExists": true,
+          "GetTenantInfo": "tenant-info"
+        }
+      },
+      "Api2": {
+         "users": "this is a user"
+       }
+    }
+  ,
+  "profile": {
+    "name": "typicode"
+  }
+}
